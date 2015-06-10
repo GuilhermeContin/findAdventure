@@ -1,0 +1,39 @@
+Iniciopostarray (
+  'senha' => 'dasd',
+  'email' => 'dasdasd',
+  'login' => 'asda',
+  'nome' => 'asdasd',
+)Model_Usuario::__set_state(array(
+   '_is_new' => true,
+   '_frozen' => false,
+   '_sanitization_enabled' => false,
+   '_data' => 
+  array (
+    'login' => 'asda',
+    'senha' => 'dasd',
+    'nome' => 'asdasd',
+    'email' => 'dasdasd',
+  ),
+   '_custom_data' => 
+  array (
+  ),
+   '_original' => 
+  array (
+  ),
+   '_data_relations' => 
+  array (
+  ),
+   '_original_relations' => 
+  array (
+  ),
+   '_reset_relations' => 
+  array (
+  ),
+   '_disabled_events' => 
+  array (
+  ),
+   '_view' => NULL,
+   '_iterable' => 
+  array (
+  ),
+))salvousaiu if
